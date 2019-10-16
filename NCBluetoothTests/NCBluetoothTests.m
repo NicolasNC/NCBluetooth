@@ -2,7 +2,7 @@
 //  NCBluetoothTests.m
 //  NCBluetoothTests
 //
-//  Created by lishengfeng on 2019/10/14.
+//  Created by Nicolas on 2019/10/14.
 //  Copyright © 2019 Nicolas. All rights reserved.
 //
 

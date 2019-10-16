@@ -2,7 +2,7 @@
 //  SendViewController.m
 //  NCBluetooth
 //
-//  Created by lishengfeng on 2019/10/15.
+//  Created by Nicolas on 2019/10/15.
 //  Copyright © 2019 Nicolas. All rights reserved.
 //
 

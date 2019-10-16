@@ -2,7 +2,7 @@
 //  AcceptViewController.m
 //  NCBluetooth
 //
-//  Created by lishengfeng on 2019/10/15.
+//  Created by Nicolas on 2019/10/15.
 //  Copyright © 2019 Nicolas. All rights reserved.
 //
 
@@ -36,7 +36,7 @@ static NSString * const LocalNameKey =  @"myPeripheral";
     self.title = @"接收端";
     
     _numberLabel = [[UILabel alloc]initWithFrame:CGRectMake(self.view.frame.size.width*0.5-100, 200, 200, 60)];
-    _numberLabel.text = @"接收数据展";
+    _numberLabel.text = @"接收数据展示";
     _numberLabel.font = [UIFont boldSystemFontOfSize:26];
     _numberLabel.textAlignment = NSTextAlignmentCenter;
     [self.view addSubview:_numberLabel];
